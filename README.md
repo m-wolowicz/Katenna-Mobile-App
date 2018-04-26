@@ -1,0 +1,2 @@
+# Katenna-Mobile-App
+The mobile application companion to the desktop Katenna Application. It can be accessed by the company's employees, with their own authentication login. Once logged in, they can retrieve information about their specific tasks and duties, using the integrated chat bot. They can also send suggestions upwards to their supervisors and managers about improvements or changes to specific tasks, which can be approved and later added to the database.
